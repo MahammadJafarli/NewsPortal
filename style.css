@@ -1,0 +1,8 @@
+#index .uploadImg {
+	width: 400px;
+	height: 300px;
+}
+#index .uploadImg img{
+	width: 100%;
+	height: 100%;
+}
